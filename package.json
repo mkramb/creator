@@ -1,0 +1,9 @@
+{
+  "name": "creator",
+  "version": "0.1.0",
+  "dependencies": {
+    "find-root": "^1.0.0",
+    "shelljs": "^0.7.5",
+    "vorpal": "^1.11.4"
+  }
+}
