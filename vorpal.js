@@ -2,6 +2,8 @@
 
 const Command = require('vorpal/dist/command')
 
+//test
+
 Command.prototype.use = function(fn) {
   return fn(this)
 }
